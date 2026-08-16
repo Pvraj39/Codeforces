@@ -7,5 +7,9 @@ git remote add origin https://github.com/Pvraj39/Codeforces.git
 git push -u origin main
 
 git add solution.java
-git commit -m "Add solution.java"
+git commit -m ".java"
 git push origin main
+
+git add SoldierAndBanana.java
+git commit -m add"SoldierAndBanana.java"
+git remote add origin https://github.com/Pvraj39/Codeforces.git
